@@ -13,7 +13,7 @@
 :wave: Evgeny Smirnov <br/>
 :wave: Matteo Torlone <br/>
 <br/>
-[:round_pushpin: **Google Colab: NBA MVP**]([https://colab.research.google.com/drive/1OxU0ZEiQv_isJuhsSDT8kD2Wa7ggzFfC?usp=sharing])
+[:round_pushpin: **Google Colab: NBA MVP**](https://colab.research.google.com/drive/1OxU0ZEiQv_isJuhsSDT8kD2Wa7ggzFfC?usp=sharing)
 <br/>
 
 The **NBA MVP Prediction Project** is a step into the intersection of sports and data science, aiming to develop a model that forecasts 
